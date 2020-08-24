@@ -1,2 +1,13 @@
 *.class
 *.log
+*.iml
+.idea/
+.idea_modules/
+.project
+.pydevproject
+.scala_dependencies
+.settings
+.DS_Store
+.cache
+.classpath
+target/
